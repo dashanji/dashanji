@@ -3,6 +3,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ISCAS
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Intel-SGX
 - 📫 How to reach me: 295957410@qq.com
 
