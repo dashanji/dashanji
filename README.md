@@ -3,6 +3,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ISCAS
-- 🌱 I’m currently learning Intel-SGX
+- 🌱 I’m currently learning Intel-SGX and gdev(open gpu driver)
 - 📫 How to reach me: 295957410@qq.com
 
